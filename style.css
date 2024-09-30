@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(58, 58, 194);
+    height: 100vh;
+
+}
+.container {
+    margin: auto;
+    margin-top: 25vh;
+    background-color: rgb(92, 92, 235);
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    flex-direction: column;
+    width: 30rem;
+    text-align: center;
+    color: rgb(142, 142, 243);
+
+    form {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+   
+}
+
